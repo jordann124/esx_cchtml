@@ -14,6 +14,7 @@ Olá deixo aqui 1 script simples que pode deixar o teu servidor top!
 # Download
 https://github.com/jordann124/esx_cchtml
 
+https://i.imgur.com/BulnMzr.jpg
 
 # Legal
 ### License
